@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 String firstNumberString = numberOne.getText().toString();
-                String secondNumberString = numberOne.getText().toString();
+                String secondNumberString = numberTwo.getText().toString();
 
                 int firstNumber = getIntFromString(firstNumberString);
                 int secondNumber = getIntFromString(secondNumberString);
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 String firstNumberString = numberOne.getText().toString();
-                String secondNumberString = numberOne.getText().toString();
+                String secondNumberString = numberTwo.getText().toString();
 
                 int firstNumber = getIntFromString(firstNumberString);
                 int secondNumber = getIntFromString(secondNumberString);
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 String firstNumberString = numberOne.getText().toString();
-                String secondNumberString = numberOne.getText().toString();
+                String secondNumberString = numberTwo.getText().toString();
 
                 int firstNumber = getIntFromString(firstNumberString);
                 int secondNumber = getIntFromString(secondNumberString);
